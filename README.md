@@ -18,11 +18,10 @@ My focus is on building practical applications, exploring intelligent systems, a
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java, C/C++, SQL  
-<!--**AI/ML:** NumPy, Pandas, Scikit-learn, basic ML models  -->
 **Software:** Git, Linux, REST APIs  
 **Web Basics:** HTML, CSS, JavaScript  
 **Other Interests:** Data science, real-world AI applications, cybersecurity fundamentals
-
+<!--**AI/ML:** NumPy, Pandas, Scikit-learn, basic ML models  -->
 ---
 
 ## 📌 Featured Projects
