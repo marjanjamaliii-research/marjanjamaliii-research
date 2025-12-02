@@ -56,7 +56,6 @@ A full analysis of numerical CAPTCHA security with:
 
 ⭐ *I love learning, building, and exploring new technologies.*
 
-Feel free to explore my repositories — more projects will be added soon!
 <!--
 **marjanjamaliii-research/marjanjamaliii-research** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
